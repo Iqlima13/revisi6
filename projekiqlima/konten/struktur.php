@@ -1,0 +1,1 @@
+<img src="Struktur organisasi.png" alt="struktur" style="width:100%;height:150pxpx;">
